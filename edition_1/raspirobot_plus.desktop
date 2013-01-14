@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=RaspiRobotBasic
+Comment=
+Exec=sudo python /home/pi/Python/code/11_02_rover_plus.py 
+StartupNotify=false
+Terminal=false
+Hidden=false
